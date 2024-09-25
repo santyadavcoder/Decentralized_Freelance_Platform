@@ -1,4 +1,5 @@
 ##### Deployed smartcontract address: CCIZHW52TFO6ALASZXHWROJOMQOI3UD22CXLJJ2HB6R4IZTYD6ZJERXL
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/d0128078-47d1-40e7-aa6b-13c261bb7528">
 
 # Decentralized Freelance Platform
 
